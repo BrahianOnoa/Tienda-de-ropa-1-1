@@ -5,7 +5,7 @@ import FlexWrapper from "../FlexWrapper/FlexWrapper";
 function ItemListContainer(props) {
   return (
     <>
-      <h1>...</h1>
+      <h1>Arturo Calle</h1>
       <FlexWrapper>
         <Card
           img="https://http2.mlstatic.com/D_NQ_NP_649731-MLA43505941757_092020-O.webp"
